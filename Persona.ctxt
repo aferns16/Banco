@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Persona(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Persona\n
+comment1.params=
+comment1.target=void\ saludar()
+comment1.text=La\ persona\ saluda
+comment2.params=
+comment2.target=void\ abrirCuentaBancaria()
+comment2.text=Abrirse\ una\ cuenta
+comment3.params=cantidad
+comment3.target=void\ ingresarDinero(double)
+comment3.text=Meter\ dinero\ en\ la\ cuenta
+comment4.params=cantidad
+comment4.target=void\ sacarDinero(double)
+comment4.text=Sacar\ dinero\ de\ la\ cuenta
+comment5.params=
+comment5.target=void\ consultarExtracto()
+comment5.text=Para\ consultar\ el\ saldo
+numComments=6
